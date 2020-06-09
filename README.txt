@@ -1,1 +1,0 @@
-Repository of python data visualization
